@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\bin\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.exe
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\bin\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\bin\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\bin\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\bin\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.dll
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\bin\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\obj\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\obj\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\obj\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\obj\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\obj\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.dll
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\obj\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula15-Sprint4-TryCatch\obj\Debug\netcoreapp3.1\Aula15-Sprint4-TryCatch.genruntimeconfig.cache
